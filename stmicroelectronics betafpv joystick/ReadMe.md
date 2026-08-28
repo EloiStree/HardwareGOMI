@@ -5,7 +5,7 @@ https://betafpv.com/products/literadio-2-se-radio-transmitter
 
 
 ```
-
+FILE>>>|.ab_input_to_command
 stmicroelectronics betafpv joystick|s0|b2 ♦️ false ♦️ cmd:log SA DOWN
 stmicroelectronics betafpv joystick|s0|b2 ♦️ true ♦️ cmd:log SA UP
 
