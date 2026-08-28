@@ -5,21 +5,22 @@ https://betafpv.com/products/literadio-2-se-radio-transmitter
 
 
 ```
+
 stmicroelectronics betafpv joystick|s0|b2 ♦️ false ♦️ cmd:log SA DOWN
 stmicroelectronics betafpv joystick|s0|b2 ♦️ true ♦️ cmd:log SA UP
 
 stmicroelectronics betafpv joystick|s0|b10 ♦️ true ♦️ cmd:log SB DOWN
 stmicroelectronics betafpv joystick|s0|b10 ♦️ false ♦️ cmd:log SB DOWN CENTER
-stmicroelectronics betafpv joystick|s0|b9 ♦️ true ♦️ cmd:log SB UP Center
-stmicroelectronics betafpv joystick|s0|b9 ♦️ false ♦️ cmd:log SB Center UP
+stmicroelectronics betafpv joystick|s0|b9 ♦️ true ♦️ cmd:log SB UP CENTER
+stmicroelectronics betafpv joystick|s0|b9 ♦️ false ♦️ cmd:log SB UP
 
 stmicroelectronics betafpv joystick|s0|b1 ♦️ false ♦️ cmd:log SD DOWN
 stmicroelectronics betafpv joystick|s0|b1 ♦️ true ♦️ cmd:log SD UP
 
-stmicroelectronics betafpv joystick|s0|b10 ♦️ true ♦️ cmd:log SC DOWN
-stmicroelectronics betafpv joystick|s0|b10 ♦️ false ♦️ cmd:log SC DOWN CENTER
-stmicroelectronics betafpv joystick|s0|b9 ♦️ true ♦️ cmd:log SC UP Center
-stmicroelectronics betafpv joystick|s0|b9 ♦️ false ♦️ cmd:log SC Center UP
+stmicroelectronics betafpv joystick|s0|a3 ♦️ in ♦️ -1.0  ♦️ 0.9 ♦️ cmd:log SC DOWN
+stmicroelectronics betafpv joystick|s0|a3 ♦️ in ♦️ -0.1 ♦️  0.1 ♦️ cmd:log SC CENTER
+stmicroelectronics betafpv joystick|s0|a3 ♦️ in ♦️ 0.9  ♦️ 1.0 ♦️ cmd:log SC UP
+
 
 
 ## Right Joystick Left Right -1-> 1
