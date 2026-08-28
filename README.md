@@ -14,6 +14,8 @@ This Git repository is a collection of examples using the hardware I own.
 The file importer can be found here:   
 https://github.com/EloiStree/2026_08_10_gdp_omi_file_import   
 
+The reading code of the input in GOMI is mainly here:   
+https://github.com/EloiStree/2026_01_03_gdp_input_to_primitive   
 
 ## Trigger Event
 
