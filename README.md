@@ -11,6 +11,9 @@ You can then interpret those actions with GOMI or your GDScript.
 
 This Git repository is a collection of examples using the hardware I own.
 
+The file importer can be found here:   
+https://github.com/EloiStree/2026_08_10_gdp_omi_file_import   
+
 
 ## Trigger Event
 
